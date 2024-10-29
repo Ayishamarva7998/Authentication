@@ -7,6 +7,7 @@ class PhoneNumberScreen extends StatefulWidget {
   const PhoneNumberScreen({super.key});
 
   @override
+  // ignore: library_private_types_in_public_api
   _PhoneNumberScreenState createState() => _PhoneNumberScreenState();
 }
 
@@ -96,6 +97,7 @@ class OtpScreen extends StatefulWidget {
   const OtpScreen({super.key, required this.phoneNumber});
 
   @override
+  // ignore: library_private_types_in_public_api
   _OtpScreenState createState() => _OtpScreenState();
 }
 

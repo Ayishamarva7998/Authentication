@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class Card extends StatelessWidget {
-  Card({super.key, required Column child});
+  const Card({super.key, required Column child});
 
   @override
   Widget build(BuildContext context) {
