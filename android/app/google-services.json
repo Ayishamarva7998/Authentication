@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947575420404",
+    "project_id": "auth-455d3",
+    "storage_bucket": "auth-455d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947575420404:android:0123892bf254f871f8f5a1",
+        "android_client_info": {
+          "package_name": "com.example.alab_technology"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRjtjlIuLAWk6K7iY7ZiCeXn77Tie4GdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
